@@ -26,9 +26,10 @@ To be specfic: Proof-of-concept AI agent to control my computer and logically tr
 3. The AI Agent executes keyboard presses of the lettered encoding to trigger the click on the corresponding button. This allows the AI agent to click on buttons without having to move the mouse at all! 
 4. The AI agent then generates, types out, and sends a personalized message based on the extracted profile info. 
 5. Once sent, the Agent finds a new person and repeats the entire process
+![Graphic for How it works](./napkinAI_graphic_howitworks_img2.png)
+
 > [!NOTE]
 > Notice how this process is similar to what a human would when accomplishing a task using a GUI
-![Graphic for How it works](./napkinAI_graphic_howitworks_img2.png)
 # Features
 1. Works out-of-the-box!
 2. Includes GUI to start/stop automation and show real-time metrics (like # of LLM requests)

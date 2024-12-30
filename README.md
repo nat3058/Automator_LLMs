@@ -4,14 +4,20 @@ More human-like automation
 
 To be specfic: Proof-of-concept AI agent to control my computer and logically traverse web UIs like humans in order to automate nontrivial tasks and workflows on web apps.
 
+
 # Demo
+
+#### Short-Form Demo (recommended)
+[![AI Agent Are Game Changers](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutube.com%2Fshorts%2FJxRa5QyZGOg%3Fsi%3DqAwqgRHCcNEbagHd)](https://youtube.com/shorts/JxRa5QyZGOg?si=qAwqgRHCcNEbagHd)
+
+#### Full-Length Realtime Raw Demo
 [![AI Agent DEMO](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtqOZNmhGwls)](https://www.youtube.com/watch?v=tqOZNmhGwls)
 
-<span style="color:yellow">
+<!-- <span style="color:yellow">
 <b> Note</b>
-</span>
-
-> The Source Code is not currently Open Source. But if there seems to be interest, I can publicly release it.\
+</span> -->
+> [!NOTE]
+> The Source Code is not currently Open Source. But if there seems to be interest, I can publicly release it.
 > Make a Github Issue or reach out for any comments, questions, or requests: nnakkapa at umich dot edu
 
 
@@ -53,3 +59,5 @@ To be specfic: Proof-of-concept AI agent to control my computer and logically tr
 
 2. Why not just use an Linkedin API to read profile info and send connection requests. You should be able to do this with anti-bot backend mechanisms since you're not using a browser.
     * Please see the above question. But to answer breifly, there might be unnecssary problems: rate-limits, anti-bot detection mechanisms since you're not using a browser, perhaps too much time to reverse engineer their API, no GUI/visual confirmations, not scalable, not understandable/accesbile to non-programmers, etc. 
+
+![Graphic for to visually show pros and cons of Selenium vs LLMAutomators](./napkinAI_graphic_fa_img1.png)

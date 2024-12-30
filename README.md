@@ -20,7 +20,15 @@ To be specfic: Proof-of-concept AI agent to control my computer and logically tr
 > The Source Code is not currently Open Source. But if there seems to be interest, I can publicly release it.
 > Make a Github Issue or reach out for any comments, questions, or requests: nnakkapa at umich dot edu
 
-
+# How It Works
+1. The AI Agent reads through a profile and extracts relevant info using a multimodal LLM. 
+2. Utilizing a research technique called **Set-of-Marks** prompting, the multimodal LLM clicks on website buttons by identifying the lettered encoding next to the button to-be-clicked . 
+3. The AI Agent executes keyboard presses of the lettered encoding to trigger the click on the corresponding button. This allows the AI agent to click on buttons without having to move the mouse at all! 
+4. The AI agent then generates, types out, and sends a personalized message based on the extracted profile info. 
+5. Once sent, the Agent finds a new person and repeats the entire process
+> [!NOTE]
+> Notice how this process is similar to what a human would when accomplishing a task using a GUI
+![Graphic for How it works](./napkinAI_graphic_howitworks_img2.png)
 # Features
 1. Works out-of-the-box!
 2. Includes GUI to start/stop automation and show real-time metrics (like # of LLM requests)

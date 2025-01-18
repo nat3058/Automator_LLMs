@@ -17,8 +17,9 @@ To be specfic: Proof-of-concept AI agent to control my computer and logically tr
 <b> Note</b>
 </span> -->
 > [!NOTE]
-> The Source Code is not currently Open Source. But if there seems to be interest, I can publicly release it.
-> Make a Github Issue or reach out for any comments, questions, or requests: nnakkapa at umich dot edu
+> ~The Source Code is not currently Open Source. But if there seems to be interest, I can publicly release it.
+> As of 01-15-2025, **most** of the src code is now released. There is **intentionally** no instructions on installation or usage yet.
+> Make a Github Issue or reach out for any comments, questions, or requests: nnakkapa at umich dot edu 
 
 # How It Works
 1. The AI Agent reads through a profile and extracts relevant info using a multimodal LLM. 

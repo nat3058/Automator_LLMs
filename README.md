@@ -13,14 +13,6 @@ To be specfic: Proof-of-concept AI agent to control my computer and logically tr
 #### Full-Length Realtime Raw Demo
 [![AI Agent DEMO](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtqOZNmhGwls)](https://www.youtube.com/watch?v=tqOZNmhGwls)
 
-<!-- <span style="color:yellow">
-<b> Note</b>
-</span> -->
-> [!NOTE]
-> ~The Source Code is not currently Open Source. But if there seems to be interest, I can publicly release it.~ <br>
-> Update on 01-15-2025: **Most** of the src code is now released. There is **intentionally** no instructions on installation or usage yet. <br>
-> Reach out for any comments, questions, or requests: nnakkapa at umich dot edu 
-
 # How It Works
 1. The AI Agent reads through a profile and extracts relevant info using a multimodal LLM. 
 2. Utilizing a research technique called **Set-of-Marks** prompting, the multimodal LLM clicks on website buttons by identifying the lettered encoding next to the button to-be-clicked . 
